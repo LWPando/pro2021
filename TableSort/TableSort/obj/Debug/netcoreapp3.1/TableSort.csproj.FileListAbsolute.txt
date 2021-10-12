@@ -1,0 +1,14 @@
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.exe
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.deps.json
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.runtimeconfig.json
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.runtimeconfig.dev.json
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.dll
+D:\pro2021\TableSort\TableSort\bin\Debug\netcoreapp3.1\TableSort.pdb
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.csproj.AssemblyReference.cache
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.AssemblyInfoInputs.cache
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.AssemblyInfo.cs
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.csproj.CoreCompileInputs.cache
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.dll
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.pdb
+D:\pro2021\TableSort\TableSort\obj\Debug\netcoreapp3.1\TableSort.genruntimeconfig.cache

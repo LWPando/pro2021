@@ -63,7 +63,28 @@ namespace Snowflake
             ObratLevo(-60);
             Koch(n - 1, korak, g);
         }
-
+        
+        public void Drevo(int n, double x, double y, double a, double dolzina, Graphics g)
+        {
+            int kot = 50;
+            double pojemek = 0.65;
+            int kotPogiba = 0;
+            double cx = x + dolzina * Math.Cos(a * Math.PI / 180);
+            double cy = y + dolzina * Math.Sin(a * Math.PI / 180);
+            int x1 = RisaniX(cx);
+            int y1 = RisaniY(cy);
+            int x2 = RisaniX(x);
+            int y2 = RisaniY(y);
+            Random r = new Random();
+            Color c = Color.FromArgb(0, r.Next(255), 100);
+            Pen p = new Pen(c,(float)(Math.Pow(n,1.2)));
+            g.DrawLine(p, x1, y1, x2, y2);
+            if (n == 0)
+                return;
+            Drevo(n - 1, cx, cy, a - 45, dolzina * 0.65, g);
+            Drevo(n - 1, cx, cy, a + 45, dolzina * 0.65, g);
+            Drevo(n - 1, cx, cy, a, dolzina * (1 - 0.65), g);
+        }
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
@@ -81,13 +102,15 @@ namespace Snowflake
             //    ObratLevo(r.Next(360));
             //    Premik(0.1, g);
             //}
-            x = 0.0;y = 0.95;alfa = 0;
-            int n = 10;
-            Koch(n, 1 / Math.Pow(3, n), g);
-            ObratLevo(240);
-            Koch(n, 1 / Math.Pow(3, n), g);
-            ObratLevo(240);
-            Koch(n, 1 / Math.Pow(3, n), g);
+            //x = 0.0;y = 0.95;alfa = 0;
+            //int n = 10;
+            //Koch(n, 1 / Math.Pow(3, n), g);
+            //ObratLevo(240);
+            //Koch(n, 1 / Math.Pow(3, n), g);
+            //ObratLevo(240);
+            //Koch(n, 1 / Math.Pow(3, n), g);
+            int n = 3;
+            Drevo(n, 0.5, 0, 90, 0.5, g);
         }
         }
     }
