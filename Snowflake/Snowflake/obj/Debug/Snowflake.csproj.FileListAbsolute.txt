@@ -1,0 +1,10 @@
+D:\pro2021\Snowflake\Snowflake\bin\Debug\Snowflake.exe.config
+D:\pro2021\Snowflake\Snowflake\bin\Debug\Snowflake.exe
+D:\pro2021\Snowflake\Snowflake\bin\Debug\Snowflake.pdb
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.csproj.AssemblyReference.cache
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.Form1.resources
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.Properties.Resources.resources
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.csproj.GenerateResource.cache
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.exe
+D:\pro2021\Snowflake\Snowflake\obj\Debug\Snowflake.pdb
