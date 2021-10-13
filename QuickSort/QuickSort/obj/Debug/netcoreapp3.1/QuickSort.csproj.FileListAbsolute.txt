@@ -1,0 +1,14 @@
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.AssemblyReference.cache
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+D:\pro2021\QuickSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+D:\pro2021\QuickSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
